@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/del_icon</file>
+    <file>icon/add_icon</file>
+    <file>icon/start_icon.svg</file>
+  </qresource>
+</RCC>
